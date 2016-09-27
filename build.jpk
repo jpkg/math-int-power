@@ -1,0 +1,3 @@
+dependencies=test-manager
+output-jar=bin/integerpower-${branch}.jar
+maintype-test=jpkg.math.IntegerPowerTest
